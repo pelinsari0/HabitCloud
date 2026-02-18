@@ -139,14 +139,6 @@ users/{userId}/
       └── timestamp: Timestamp
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License.
-
-## Author
-
-Created with ❤️ using SwiftUI and Firebase
