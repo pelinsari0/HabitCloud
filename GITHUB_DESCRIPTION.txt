@@ -1,0 +1,1 @@
+A cloud-synced iOS habit tracker built with SwiftUI and Firebase featuring custom schedules, streak tracking, and real-time synchronization across devices.

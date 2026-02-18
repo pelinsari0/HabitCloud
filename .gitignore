@@ -1,0 +1,78 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/
+
+# User settings
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Build
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+Podfile.lock
+
+# Carthage
+Carthage/Build
+
+# Firebase
+# IMPORTANT: Never commit your GoogleService-Info.plist to public repos
+# GoogleService-Info.plist
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Files that might appear in the root
+*.log
+*.swp
+*~
+.vscode/
+.idea/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Xcode
+DerivedData/
+.build/
+
+# Swift Package Manager
+Packages/
+
+# Firebase
+GoogleService-Info.plist
+
+# macOS
+.DS_Store
